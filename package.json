@@ -1,0 +1,28 @@
+{
+  "name": "keystart",
+  "version": "0.0.1",
+  "description": "Quick-start project scaffolding tool for node.js projects using Keystone",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JedWatson/keystart.git"
+  },
+  "keywords": [
+    "keystone",
+    "quick start",
+    "web app",
+    "express",
+    "builerplate",
+    "scaffolding"
+  ],
+  "dependencies": {
+    "keystone-utils": "~0.1.0",
+    "underscore": "~1.5.2"
+  },
+  "author": "Jed Watson",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/JedWatson/keystart/issues"
+  }
+}
